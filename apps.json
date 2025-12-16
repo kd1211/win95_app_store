@@ -1,0 +1,38 @@
+{
+  "storeName": "Web95 App Store",
+  "version": "1.0",
+  "apps": [
+    {
+      "id": "notepad",
+      "name": "Notepad",
+      "icon": "📝",
+      "description": "Barebones text editor. Zero thoughts, just typing.",
+      "entry": "https://cdn.jsdelivr.net/gh/mdn/dom-examples/contenteditable/index.html",
+      "category": "Utilities"
+    },
+    {
+      "id": "paint",
+      "name": "Paint",
+      "icon": "🎨",
+      "description": "Absolutely cursed drawing app.",
+      "entry": "https://jspaint.app",
+      "category": "Graphics"
+    },
+    {
+      "id": "calculator",
+      "name": "Calculator",
+      "icon": "🧮",
+      "description": "Math but make it stressful.",
+      "entry": "https://cdn.jsdelivr.net/gh/javalc6/simple-calculator/index.html",
+      "category": "Utilities"
+    },
+    {
+      "id": "doom",
+      "name": "DOOM",
+      "icon": "🔥",
+      "description": "Runs DOOM. Of course it does.",
+      "entry": "https://js-dos.com/games/doom.exe.html",
+      "category": "Games"
+    }
+  ]
+}
