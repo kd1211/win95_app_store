@@ -1,38 +1,41 @@
 {
   "storeName": "Web95 App Store",
-  "version": "1.0",
   "apps": [
+    {
+      "id": "steam95",
+      "name": "Steam 95",
+      "icon": "🎮",
+      "description": "Totally legit game launcher. No refunds.",
+      "entry": "https://cdn.jsdelivr.net/gh/YOURNAME/web95-apps/steam95.html"
+    },
     {
       "id": "notepad",
       "name": "Notepad",
       "icon": "📝",
-      "description": "Barebones text editor. Zero thoughts, just typing.",
-      "entry": "https://cdn.jsdelivr.net/gh/mdn/dom-examples/contenteditable/index.html",
-      "category": "Utilities"
+      "description": "Writes things. Forgets nothing.",
+      "entry": "https://cdn.jsdelivr.net/gh/YOURNAME/web95-apps/notepad.html"
     },
     {
-      "id": "paint",
-      "name": "Paint",
+      "id": "paint95",
+      "name": "Paint 95",
       "icon": "🎨",
-      "description": "Absolutely cursed drawing app.",
-      "entry": "https://jspaint.app",
-      "category": "Graphics"
+      "description": "Professional art software (lies).",
+      "entry": "https://cdn.jsdelivr.net/gh/YOURNAME/web95-apps/paint.html"
     },
     {
       "id": "calculator",
       "name": "Calculator",
       "icon": "🧮",
-      "description": "Math but make it stressful.",
-      "entry": "https://cdn.jsdelivr.net/gh/javalc6/simple-calculator/index.html",
-      "category": "Utilities"
+      "description": "Does math. Sometimes correctly.",
+      "entry": "https://cdn.jsdelivr.net/gh/YOURNAME/web95-apps/calc.html"
     },
     {
-      "id": "doom",
-      "name": "DOOM",
-      "icon": "🔥",
-      "description": "Runs DOOM. Of course it does.",
-      "entry": "https://js-dos.com/games/doom.exe.html",
-      "category": "Games"
+      "id": "minesweeper",
+      "name": "Minesweeper",
+      "icon": "💣",
+      "description": "Click fast. Regret faster.",
+      "entry": "https://cdn.jsdelivr.net/gh/YOURNAME/web95-apps/minesweeper.html"
     }
   ]
 }
+
